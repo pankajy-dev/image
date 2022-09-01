@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<DefaultValues>
+	<DefaultValue><ID>Company</ID><Value></Value></DefaultValue>
+	<DefaultValue><ID>Division</ID><Value></Value></DefaultValue>
+	<DefaultValue><ID>Product_Class_Concatenation_Type</ID><Value>4321</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_TaxAreaID</ID><Value>220273860</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_Country</ID><Value>USA</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_City</ID><Value>Fort Myers</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_State</ID><Value>FL</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_PostalCode</ID><Value>33907</Value></DefaultValue>
+	<DefaultValue><ID>Call_Center_StreetAddress</ID><Value>24 Metro Parkway</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse</ID><Value>100</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse_Country</ID><Value>USA</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse_City</ID><Value>Fort Myers</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse_State</ID><Value>FL</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse_PostalCode</ID><Value>33907</Value></DefaultValue>
+	<DefaultValue><ID>Default_Warehouse_StreetAddress</ID><Value>1200 Warehouse Road</Value></DefaultValue>
+</DefaultValues>
